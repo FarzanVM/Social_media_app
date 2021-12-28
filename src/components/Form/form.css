@@ -1,0 +1,32 @@
+/* #060826 */
+.formContainer {
+    margin: auto;
+    top: 50%;
+    width: 700PX;
+    height:460px;
+    border: 3px solid rgb(255, 255, 255);
+    box-shadow: -2px -2px 22px 4px rgba(0, 0, 0, 0.79);
+    border-radius: 8px;
+    padding: 30px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
+    -ms-transform: translateY(50%);
+    transform: translateY(40%);
+    color: #060826;
+}
+input[type=email], input[type=password]{
+    width:100%;
+    padding: 30px;
+    height: 40px;
+    border-radius:5px;
+}
+label{
+    padding-bottom: 20px;
+}
+
+button {
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+}

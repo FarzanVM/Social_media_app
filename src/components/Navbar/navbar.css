@@ -1,0 +1,15 @@
+.header {
+    padding: 40px;
+    text-align: center;
+    background:black;
+    color:white;
+    font-family:Cursive;
+    font-size: 30px;
+  }
+
+.container {
+    background-color: grey;
+    font-family: serif;
+
+
+}
